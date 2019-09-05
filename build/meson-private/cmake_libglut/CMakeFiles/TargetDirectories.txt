@@ -1,2 +1,0 @@
-/home/mikkel/Nextcloud/VGIS7/computer_graphics/mm1/hello_triangle/build/meson-private/cmake_libglut/CMakeFiles/rebuild_cache.dir
-/home/mikkel/Nextcloud/VGIS7/computer_graphics/mm1/hello_triangle/build/meson-private/cmake_libglut/CMakeFiles/edit_cache.dir

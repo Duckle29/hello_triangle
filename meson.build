@@ -6,7 +6,7 @@ dep_glut = dependency('freeglut')
 dep_glew = dependency('GLEW') 
 dep_glu = dependency('glu')
 dep_gl = dependency('gl')
-cpp_args = ['-fpermissive', '-m32']
+cpp_args = ['-fpermissive']
 executable('main', 
            'hellotriangle.cpp', 
            dependencies : [dep_glut, 
