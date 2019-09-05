@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/mikkel/Nextcloud/VGIS7/computer_graphics/mm1/hello_triangle/build",
+    "command": "c++ -Imain@exe -I. -I.. -I/usr/include -I/usr/include/libdrm -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -Wpedantic -std=c++14 -O2 -g -fpermissive -m32 -MD -MQ 'main@exe/hellotriangle.cpp.o' -MF 'main@exe/hellotriangle.cpp.o.d' -o 'main@exe/hellotriangle.cpp.o' -c ../hellotriangle.cpp",
+    "file": "../hellotriangle.cpp"
+  }
+]
